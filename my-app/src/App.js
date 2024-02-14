@@ -34,7 +34,7 @@ export default function App() {
 
       {/* <Product /> */}
       {/* <Form /> */}
-      {/* <Effect /> */}
+      <Effect />
       <AfterCreation />
     </>
   );
