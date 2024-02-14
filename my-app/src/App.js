@@ -7,6 +7,7 @@ import Product from "./components/Product";
 import Form from "./components/Form";
 import Effect from "./components/use_effect/Effect";
 import AfterCreation from "./components/use_effect/AfterCreation";
+
 export default function App() {
   return (
     // <div className="parent">
